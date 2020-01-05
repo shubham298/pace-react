@@ -1,0 +1,61 @@
+
+.card{
+    width:75rem;
+    opacity: 20%;
+}
+ 
+.card-header{
+    width: 80rem;
+}
+
+.form-group{
+    padding-left: 2rem;
+    width:70rem;    
+}
+
+.form-control{
+    width: 80rem;
+}
+
+
+
+
+.map{
+    height: 200px;
+}
+
+
+.form-group-radius{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkred;
+    size: 28rem;
+    
+    padding-top:25px;
+}
+
+.ip-class{
+color: aliceblue;  
+padding-top: 60px;
+padding-bottom: 20px;
+}
+
+.label-style{
+    padding-block: left
+}
+
+.Button{
+    padding-left: 1rem;     
+    padding-bottom: 1rem;
+}
+
+.input-group-prepend{
+    padding-left: 1rem;
+}
+
+.bt-style{
+    padding-left:1rem;
+}
+
+.h5style{
+    padding-left:2.5rem;
+}
